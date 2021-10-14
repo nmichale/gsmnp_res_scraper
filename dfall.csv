@@ -1,0 +1,97 @@
+,site_id,name,img_url,elev_ft,capacity,taken_avg_overall,taken_min,taken_avg_range,taken_10_28,taken_10_29,taken_10_30
+0,1,1 Cooper Road,https://smokiespermits.nps.gov/images/sitephotos/10001000.jpg,1200,12,1.2,12.0,0.0,0.0,0.0,0.0
+1,2,2 Cane Creek,https://smokiespermits.nps.gov/images/sitephotos/10002000.jpg,1320,4,0.3,4.0,0.0,0.0,0.0,0.0
+2,3,3 Hesse Creek,https://smokiespermits.nps.gov/images/sitephotos/10003000.jpg,1360,8,0.2,3.0,0.0,0.0,0.0,0.0
+3,5,5 Rich Mountain,https://smokiespermits.nps.gov/images/sitephotos/10005000.jpg,3400,4,0.2,4.0,0.0,0.0,0.0,0.0
+4,6,6 Turkeypen Ridge,https://smokiespermits.nps.gov/images/sitephotos/10006000.jpg,3400,8,0.8,8.0,0.7,0.0,2.0,0.0
+5,10,10 Ledbetter Ridge,https://smokiespermits.nps.gov/images/sitephotos/10010000.jpg,3000,8,1.7,8.0,0.7,2.0,0.0,0.0
+6,12,12 Forge Creek,https://smokiespermits.nps.gov/images/sitephotos/10012000.jpg,2600,12,1.3,12.0,2.0,0.0,0.0,6.0
+7,13,13 Sheep Pen Gap,https://smokiespermits.nps.gov/images/sitephotos/10013000.jpg,4640,15,5.9,15.0,4.0,0.0,9.0,3.0
+8,14,14 Flint Gap,https://smokiespermits.nps.gov/images/sitephotos/10014000.jpg,2050,8,0.7,6.0,0.0,0.0,0.0,0.0
+9,15,15 Rabbit Creek,https://smokiespermits.nps.gov/images/sitephotos/10015000.jpg,1550,12,0.7,10.0,0.0,0.0,0.0,0.0
+10,16,16 Scott Gap,https://smokiespermits.nps.gov/images/sitephotos/10016000.jpg,1700,10,0.5,8.0,0.0,0.0,0.0,0.0
+11,17,17 Little Bottoms ,https://smokiespermits.nps.gov/images/sitephotos/10017000.jpg,1240,14,3.0,14.0,0.0,0.0,0.0,0.0
+12,18,18 West Prong,https://smokiespermits.nps.gov/images/sitephotos/10018000.jpg,1600,12,2.8,12.0,4.0,6.0,2.0,4.0
+13,19,19 Upper Henderson,https://smokiespermits.nps.gov/images/sitephotos/10019000.jpg,2880,8,0.8,8.0,0.0,0.0,0.0,0.0
+14,20,20 King Branch ,https://smokiespermits.nps.gov/images/sitephotos/10020000.jpg,2520,12,1.8,12.0,2.7,0.0,0.0,8.0
+15,23,23 Camp Creek,https://smokiespermits.nps.gov/images/sitephotos/10023000.jpg,3200,12,3.7,12.0,2.7,0.0,0.0,8.0
+16,24,24 Rough Creek,https://smokiespermits.nps.gov/images/sitephotos/10024000.jpg,2860,10,2.9,10.0,2.7,0.0,8.0,0.0
+17,26,26 Dripping Spring Mtn,https://smokiespermits.nps.gov/images/sitephotos/10026000.jpg,4400,10,2.2,10.0,0.0,0.0,0.0,0.0
+18,27,27 Lower Jakes Gap,https://smokiespermits.nps.gov/images/sitephotos/10027000.jpg,3520,12,1.8,12.0,1.7,5.0,0.0,0.0
+19,28,28 Marks Cove,https://smokiespermits.nps.gov/images/sitephotos/10028000.jpg,3490,12,2.0,12.0,1.3,2.0,2.0,0.0
+20,29,29 Otter Creek,https://smokiespermits.nps.gov/images/sitephotos/10029000.jpg,4560,10,3.9,10.0,3.3,0.0,0.0,10.0
+21,30,30 Three Forks,https://smokiespermits.nps.gov/images/sitephotos/10030000.jpg,3400,12,2.2,12.0,2.7,0.0,8.0,0.0
+22,31,31 Porters Flat,https://smokiespermits.nps.gov/images/sitephotos/10031000.jpg,3400,8,1.6,8.0,0.0,0.0,0.0,0.0
+23,32,32 Engine Creek,https://smokiespermits.nps.gov/images/sitephotos/10032000.jpg,2280,8,1.7,8.0,3.3,0.0,2.0,8.0
+24,33,33 Settlers Camp,https://smokiespermits.nps.gov/images/sitephotos/10033000.jpg,1960,8,1.4,8.0,2.3,2.0,0.0,5.0
+25,34,34 Sugar Cove,https://smokiespermits.nps.gov/images/sitephotos/10034000.jpg,3240,10,2.7,10.0,1.7,0.0,5.0,0.0
+26,35,35 Gilliland Creek,https://smokiespermits.nps.gov/images/sitephotos/10035000.jpg,2680,12,2.9,12.0,1.0,0.0,3.0,0.0
+27,36,36 Upper Walnut Bottoms,https://smokiespermits.nps.gov/images/sitephotos/10036000.jpg,3040,20,4.0,20.0,2.0,0.0,0.0,6.0
+28,37,37 Lower Walnut Bottom,https://smokiespermits.nps.gov/images/sitephotos/10037000.jpg,3000,20,11.2,20.0,14.3,10.0,16.0,17.0
+29,38,38 Mt. Sterling,https://smokiespermits.nps.gov/images/sitephotos/10038000.jpg,5820,12,8.5,12.0,8.3,4.0,9.0,12.0
+30,39,39 Pretty Hollow,https://smokiespermits.nps.gov/images/sitephotos/10039000.jpg,3040,20,2.7,20.0,0.0,0.0,0.0,0.0
+31,40,40 Big Hemlock,https://smokiespermits.nps.gov/images/sitephotos/10040000.jpg,3100,8,0.7,8.0,0.0,0.0,0.0,0.0
+32,42,42 Spruce Mountain,https://smokiespermits.nps.gov/images/sitephotos/10042000.jpg,5480,4,0.4,4.0,0.0,0.0,0.0,0.0
+33,44,44 McGee Spring,https://smokiespermits.nps.gov/images/sitephotos/10044000.jpg,5040,12,1.3,9.0,2.7,0.0,8.0,0.0
+34,46,46 Estes Branch ,https://smokiespermits.nps.gov/images/sitephotos/10046000.jpg,2870,12,0.5,6.0,0.0,0.0,0.0,0.0
+35,47,47 Enloe Creek,https://smokiespermits.nps.gov/images/sitephotos/10047000.jpg,3620,8,3.2,8.0,4.3,1.0,6.0,6.0
+36,49,49 Cabin Flats,https://smokiespermits.nps.gov/images/sitephotos/10049000.jpg,3060,12,6.1,12.0,5.7,0.0,8.0,9.0
+37,51,51 Georges Branch,https://smokiespermits.nps.gov/images/sitephotos/10051000.jpg,2800,12,0.9,7.0,0.0,0.0,0.0,0.0
+38,52,52 Newton Bald,https://smokiespermits.nps.gov/images/sitephotos/10052000.jpg,5000,8,2.6,8.0,1.0,2.0,1.0,0.0
+39,53,53 Poke Patch,https://smokiespermits.nps.gov/images/sitephotos/10053000.jpg,3000,6,1.5,6.0,0.0,0.0,0.0,0.0
+40,54,54 Nettle Creek,https://smokiespermits.nps.gov/images/sitephotos/10054000.jpg,2600,6,0.7,6.0,0.0,0.0,0.0,0.0
+41,55,55 Pole Road,https://smokiespermits.nps.gov/images/sitephotos/10055000.jpg,2410,15,1.2,12.0,0.7,2.0,0.0,0.0
+42,56,56 Burnt Spruce,https://smokiespermits.nps.gov/images/sitephotos/10056000.jpg,2405,6,1.3,6.0,0.3,0.0,1.0,0.0
+43,57,57 Bryson Place,https://smokiespermits.nps.gov/images/sitephotos/10057000.jpg,2360,10,1.0,8.0,0.3,0.0,0.0,1.0
+44,58,58 Nicks Nest Branch,https://smokiespermits.nps.gov/images/sitephotos/10058000.jpg,2360,6,1.5,6.0,0.0,0.0,0.0,0.0
+45,59,59 McCracken Branch,https://smokiespermits.nps.gov/images/sitephotos/10059000.jpg,2320,10,2.4,10.0,0.0,0.0,0.0,0.0
+46,60,60 Bumgardner Branch ,https://smokiespermits.nps.gov/images/sitephotos/10060000.jpg,2120,20,4.1,20.0,5.0,5.0,5.0,5.0
+47,61,61 Bald Creek,https://smokiespermits.nps.gov/images/sitephotos/10061000.jpg,3560,10,2.1,10.0,0.7,0.0,0.0,2.0
+48,62,62 Upper Ripshin,https://smokiespermits.nps.gov/images/sitephotos/10062000.jpg,3160,8,0.5,3.0,0.0,0.0,0.0,0.0
+49,63,63 Jerry Flats,https://smokiespermits.nps.gov/images/sitephotos/10063000.jpg,2920,8,0.5,5.0,0.3,1.0,0.0,0.0
+50,64,64 Mill Creek,https://smokiespermits.nps.gov/images/sitephotos/10064000.jpg,2540,12,1.7,12.0,0.7,2.0,0.0,0.0
+51,65,65 Bear Pen Branch,https://smokiespermits.nps.gov/images/sitephotos/10065000.jpg,2040,8,0.7,4.0,0.0,0.0,0.0,0.0
+52,66,66 Lower Noland Creek,https://smokiespermits.nps.gov/images/sitephotos/10066000.jpg,1720,4,0.1,2.0,0.0,0.0,0.0,0.0
+53,67,67 Goldmine Branch,https://smokiespermits.nps.gov/images/sitephotos/10067000.jpg,1840,6,0.1,3.0,0.0,0.0,0.0,0.0
+54,68,68 Steeltrap,https://smokiespermits.nps.gov/images/sitephotos/10068000.jpg,3960,8,3.0,8.0,1.3,0.0,4.0,0.0
+55,69,69 Huggins,https://smokiespermits.nps.gov/images/sitephotos/10069000.jpg,2800,8,1.0,8.0,0.0,0.0,0.0,0.0
+56,71,71 CCC,https://smokiespermits.nps.gov/images/sitephotos/10071000.jpg,2180,12,2.3,10.0,2.0,0.0,2.0,4.0
+57,72,72 Gunter Branch,https://smokiespermits.nps.gov/images/sitephotos/10072000.jpg,1720,6,0.5,6.0,2.0,6.0,0.0,0.0
+58,73,73 Lone Pine,https://smokiespermits.nps.gov/images/sitephotos/10073000.jpg,1720,6,0.0,0.0,0.0,0.0,0.0,0.0
+59,74,74 Lower Forney,https://smokiespermits.nps.gov/images/sitephotos/10074000.jpg,1720,12,1.7,9.0,1.7,5.0,0.0,0.0
+60,75,75 Poplar Flats,https://smokiespermits.nps.gov/images/sitephotos/10075000.jpg,2800,8,0.5,4.0,0.0,0.0,0.0,0.0
+61,76,76 Kirkland Creek,https://smokiespermits.nps.gov/images/sitephotos/10076000.jpg,1770,6,0.4,6.0,0.0,0.0,0.0,0.0
+62,77,77 Pilkey Creek,https://smokiespermits.nps.gov/images/sitephotos/10077000.jpg,1800,12,0.9,9.0,1.7,0.0,5.0,0.0
+63,78,78 Double Island,https://smokiespermits.nps.gov/images/sitephotos/10078000.jpg,1720,6,1.3,6.0,6.0,6.0,6.0,6.0
+64,81,81 North Shore,https://smokiespermits.nps.gov/images/sitephotos/10081000.jpg,1800,12,0.6,7.0,0.0,0.0,0.0,0.0
+65,82,82 Calhoun,https://smokiespermits.nps.gov/images/sitephotos/10082000.jpg,2720,8,0.7,4.0,0.0,0.0,0.0,0.0
+66,83,83 Bone Valley,https://smokiespermits.nps.gov/images/sitephotos/10083000.jpg,2280,20,3.7,20.0,0.0,0.0,0.0,0.0
+67,84,84 Sugar Fork,https://smokiespermits.nps.gov/images/sitephotos/10084000.jpg,2160,6,2.5,6.0,0.0,0.0,0.0,0.0
+68,85,85 Sawdust Pile,https://smokiespermits.nps.gov/images/sitephotos/10085000.jpg,2000,10,1.0,10.0,0.0,0.0,0.0,0.0
+69,86,86 Proctor ,https://smokiespermits.nps.gov/images/sitephotos/10086000.jpg,1680,20,4.7,20.0,0.3,1.0,0.0,0.0
+70,87,87 Jerry Hollow,https://smokiespermits.nps.gov/images/sitephotos/default.jpg,1720,6,1.2,6.0,0.0,0.0,0.0,0.0
+71,88,88 Possum Hollow,https://smokiespermits.nps.gov/images/sitephotos/10088000.jpg,1960,12,1.2,12.0,0.0,0.0,0.0,0.0
+72,89,89 Lower Ekaneetlee,https://smokiespermits.nps.gov/images/sitephotos/10089000.jpg,1880,8,0.3,6.0,0.0,0.0,0.0,0.0
+73,90,90 Lost Cove ,https://smokiespermits.nps.gov/images/sitephotos/10090000.jpg,1760,12,3.6,12.0,1.7,0.0,0.0,5.0
+74,91,91 Upper Lost Cove,https://smokiespermits.nps.gov/images/sitephotos/10091000.jpg,2040,4,0.6,4.0,0.0,0.0,0.0,0.0
+75,92,92 Upper Flats,https://smokiespermits.nps.gov/images/sitephotos/10092000.jpg,2520,10,3.4,10.0,3.7,3.0,4.0,4.0
+76,95,95 Dalton Branch,https://smokiespermits.nps.gov/images/sitephotos/10095000.jpg,2360,12,2.7,12.0,5.3,2.0,7.0,7.0
+77,96,96 Eagle Creek Island,https://smokiespermits.nps.gov/images/sitephotos/10096000.jpg,2880,8,0.3,5.0,0.0,0.0,0.0,0.0
+78,97,97 Big Walnut,https://smokiespermits.nps.gov/images/sitephotos/10097000.jpg,2400,8,0.5,5.0,0.7,2.0,0.0,0.0
+79,98,98 Chambers Creek,https://smokiespermits.nps.gov/images/sitephotos/10098000.jpg,1720,12,0.8,6.0,0.3,0.0,1.0,0.0
+80,101,101 Davenport Gap,https://smokiespermits.nps.gov/images/sitephotos/10101000.jpg,2600,12,3.4,12.0,3.3,0.0,10.0,0.0
+81,102,102 Cosby Knob,https://smokiespermits.nps.gov/images/sitephotos/10102000.jpg,4700,12,6.6,12.0,6.0,1.0,7.0,10.0
+82,103,103 Tricorner Knob,https://smokiespermits.nps.gov/images/sitephotos/10103000.jpg,5920,12,6.2,12.0,3.7,8.0,3.0,0.0
+83,104,104 Pecks Corner,https://smokiespermits.nps.gov/images/sitephotos/10104000.jpg,5280,12,5.9,12.0,3.0,4.0,5.0,0.0
+84,105,105 Icewater Springs,https://smokiespermits.nps.gov/images/sitephotos/10105000.jpg,5920,12,8.9,12.0,9.7,12.0,5.0,12.0
+85,106,106 Mt. Collins,https://smokiespermits.nps.gov/images/sitephotos/10106000.jpg,5870,12,6.3,12.0,4.3,2.0,7.0,4.0
+86,107,107 Double Spring Gap,https://smokiespermits.nps.gov/images/sitephotos/10107000.jpg,5507,12,6.7,12.0,10.3,12.0,12.0,7.0
+87,108,108 Silers Bald,https://smokiespermits.nps.gov/images/sitephotos/10108000.jpg,5460,12,5.0,12.0,1.7,3.0,2.0,0.0
+88,109,109 Derrick Knob,https://smokiespermits.nps.gov/images/sitephotos/10109000.jpg,4890,12,7.7,12.0,3.7,0.0,9.0,2.0
+89,110,110 Spence Field,https://smokiespermits.nps.gov/images/sitephotos/10110000.jpg,4900,12,6.5,12.0,8.3,8.0,5.0,12.0
+90,111,111 Russell Field,https://smokiespermits.nps.gov/images/sitephotos/10111000.jpg,4360,14,3.0,14.0,1.3,0.0,0.0,4.0
+91,112,112 Mollies Ridge,https://smokiespermits.nps.gov/images/sitephotos/10112000.jpg,4570,12,4.6,12.0,5.0,3.0,3.0,9.0
+92,113,113 Birch Spring Gap,https://smokiespermits.nps.gov/images/sitephotos/10113000.jpg,3680,12,4.8,12.0,1.0,0.0,0.0,3.0
+93,114,114 Mt. LeConte,https://smokiespermits.nps.gov/images/sitephotos/10114000.jpg,6440,12,9.4,12.0,11.3,10.0,12.0,12.0
+94,115,115 Kephart,https://smokiespermits.nps.gov/images/sitephotos/10115000.jpg,3900,12,3.8,12.0,4.7,0.0,2.0,12.0
+95,116,116 Laurel Gap,https://smokiespermits.nps.gov/images/sitephotos/10116000.jpg,5600,14,4.8,14.0,3.3,10.0,0.0,0.0
